@@ -66,7 +66,7 @@ def key_matrix_inverse(key,one,two):
         print("There is no modular multiplicative inverse.")
 
     
-    # print(reverse_matrix)
+    print(reverse_matrix)
 
     
 
